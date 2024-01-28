@@ -1,7 +1,7 @@
-# bootstrapProject
+# TinDog
 
-A small project to demonstrate some HTML CSS and Bootstrap :)
+A small landing-page project builed with Bootstrap.
 
-Go to the next webpage:
+In the link Below ⬇️
 
 https://yuliakuf.github.io/bootstrapProject/
